@@ -1,6 +1,5 @@
-# Switch Mode Power Supply (SMPS) – Closed Loop Control
+# Switch Mode Power Supply 
 
-## 📌 Overview
 This project presents a **MATLAB/Simulink simulation of a closed-loop Switch Mode Power Supply (SMPS)**. The system uses **PWM-based switching** and a **PID controller** to regulate the output voltage under varying load conditions.
 
 ## ⚙️ System Description
